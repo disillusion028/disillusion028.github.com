@@ -1,0 +1,416 @@
+INFO  Deploying: git
+INFO  Clearing .deploy_git folder...
+INFO  Copying files from public folder...
+INFO  Copying files from extend dirs...
+[master d9f18ca] Site updated: 2018-10-03 14:16:47
+ 3 files changed, 4 insertions(+), 4 deletions(-)
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+INFO  Catch you later
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+INFO  Good bye
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+INFO  Have a nice day
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+reading,coding,psychology
+reading,coding,psychology
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+reading,coding,psychology
+reading,coding,psychology
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+reading,coding,psychology
+reading,coding,psychology
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+reading,coding,psychology
+reading,coding,psychology
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+FATAL Port 80 has been used. Try other port instead.
+FATAL Something's wrong. Maybe you can find the solution here: http://hexo.io/docs/troubleshooting.html
+Error: listen EADDRINUSE :::80
+    at Object.exports._errnoException (util.js:1020:11)
+    at exports._exceptionWithHostPort (util.js:1043:20)
+    at Server._listen2 (net.js:1271:14)
+    at listen (net.js:1307:10)
+    at Server.listen (net.js:1403:5)
+    at /root/site/node_modules/hexo-server/lib/server.js:82:12
+    at Promise._execute (/root/site/node_modules/bluebird/js/release/debuggability.js:313:9)
+    at Promise._resolveFromExecutor (/root/site/node_modules/bluebird/js/release/promise.js:483:18)
+    at new Promise (/root/site/node_modules/bluebird/js/release/promise.js:79:10)
+    at checkPort (/root/site/node_modules/hexo-server/lib/server.js:68:10)
+    at Hexo.module.exports (/root/site/node_modules/hexo-server/lib/server.js:19:10)
+    at Hexo.tryCatcher (/root/site/node_modules/bluebird/js/release/util.js:16:23)
+    at Hexo.<anonymous> (/root/site/node_modules/bluebird/js/release/method.js:15:34)
+    at Promise (/root/site/node_modules/hexo/lib/hexo/index.js:185:9)
+    at Promise._execute (/root/site/node_modules/bluebird/js/release/debuggability.js:313:9)
+    at Promise._resolveFromExecutor (/root/site/node_modules/bluebird/js/release/promise.js:483:18)
+    at new Promise (/root/site/node_modules/bluebird/js/release/promise.js:79:10)
+    at Hexo.call (/root/site/node_modules/hexo/lib/hexo/index.js:181:10)
+    at /usr/lib/node_modules/hexo-cli/lib/hexo.js:68:17
+    at tryCatcher (/usr/lib/node_modules/hexo-cli/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/usr/lib/node_modules/hexo-cli/node_modules/bluebird/js/release/promise.js:512:31)
+    at Promise._settlePromise (/usr/lib/node_modules/hexo-cli/node_modules/bluebird/js/release/promise.js:569:18)
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+reading,coding,psychology
+reading,coding,psychology
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+reading,coding,psychology
+reading,coding,psychology
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+reading,coding,psychology
+reading,coding,psychology
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+reading,coding,psychology
+INFO  Start processing
+INFO  Hexo is running at http://localhost:80 . Press Ctrl+C to stop.
